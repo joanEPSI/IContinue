@@ -38,8 +38,7 @@ public class NumberService {
    }
 
    public int biggestNumberV5(int[] list) {
-      int index = 0;
-      int max = 0;
+      int index,max = 0;
 
       for (index = 0; index < list.length; index++) {
          if (list[index] > max) {
@@ -51,8 +50,7 @@ public class NumberService {
    }
 
    public int biggestNumberV4(int[] list) {
-      int index = 0;
-      int max = 0;
+      int index,max = 0;
 
       for (index = 0; index < list.length - 1; index++) {
          if (list[index] > max) {
