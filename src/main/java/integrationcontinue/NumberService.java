@@ -64,8 +64,7 @@ public class NumberService {
    }
 
    public int biggestNumberV3(int[] list) {
-      int index = Integer.MAX_VALUE;
-      int max = Integer.MAX_VALUE;
+      int index,max = Integer.MAX_VALUE;
 
       for (index = 0; index < list.length - 1; index++) {
          if (list[index] > max) {
