@@ -1,11 +1,11 @@
 <project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
 	xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
 	<modelVersion>4.0.0</modelVersion>
-	<groupId>fr.demandeatonton</groupId>
-	<artifactId>tdd</artifactId>
+	<groupId>intecontinue</groupId>
+	<artifactId>intecontinue</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>Test Driven Development Example</name>
-	<description>A simple example to illustrate TDD for my blog https://demandeatonton.fr</description>
+	<description>intecontinue</description>
 
 	<dependencies>
 		<dependency>
